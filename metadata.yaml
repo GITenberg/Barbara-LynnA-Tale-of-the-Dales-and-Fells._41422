@@ -1,0 +1,25 @@
+_repo: Barbara-LynnA-Tale-of-the-Dales-and-Fells._41422
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jenkinson, Emily J.
+    birthdate: 1879
+    gutenberg_agent_id: '41173'
+    url: http://www.gutenberg.org/2009/agents/41173
+description: ''
+gutenberg_issued: '2012-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41422'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Westmorland (England) -- Fiction'
+title: 'Barbara Lynn: A Tale of the Dales and Fells.'
+url: http://www.gutenberg.org/ebooks/41422
